@@ -1,4 +1,4 @@
-## .Net 1 - Middlewares
+## .Net 2 - Middlewares
 
 ### Przykład aplikacji, w której omawiam mechanizm middlewares w ASP.NET Core
 
